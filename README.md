@@ -33,7 +33,7 @@ module.exports = {
     // You can have multiple instances of this plugin to read source files from
     // different repositories or locations within a repository.
     {
-      resolve: `gatsby-source-parliament`,
+      resolve: `@adobe/gatsby-source-parliament`,
       options: {
         name: `external`,
         path: `path/to/local/directory`,
