@@ -29,4 +29,5 @@
     "gatsby-source-filesystem": "^2.1.19",
     "rimraf": "^2.6.2"
   }
+  
 }
