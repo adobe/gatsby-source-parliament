@@ -1,6 +1,6 @@
 {
   "name": "@adobe/gatsby-source-parliament",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gatsby plugin for pulling files into Gatsby from local directory",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
@@ -17,7 +17,7 @@
   "author": "Hiren Shah",
   "license": "Apache 2.0",
   "peerDependencies": {
-    "gatsby": ">4.1.1"
+    "gatsby": ">=4.1.1"
   },
   "bugs": {
     "url": "https://github.com/adobe/gatsby-source-parliament/issues"
